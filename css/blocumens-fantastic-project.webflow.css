@@ -1013,7 +1013,7 @@ figure {
   background-size: 200px;
   background-repeat: no-repeat;
   box-shadow: 0 5px 9px -2px rgba(0, 0, 0, .61);
-  -webkit-filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
   -webkit-transform: translate(0px, 0px);
   -ms-transform: translate(0px, 0px);
@@ -1277,7 +1277,7 @@ figure {
   margin-right: 15px;
   margin-left: 15px;
   border-radius: 100%;
-  background-image: url('../images/06.jpg');
+  background-image: url('https://www.indiadappfest.com/wp-content/uploads/2017/02/kavita-gupta.jpg');
   background-position: 0px 0px;
   background-size: cover;
   opacity: 0.7;
@@ -1294,11 +1294,15 @@ figure {
 }
 
 .tab-testi.photo-2 {
-  background-image: url('../images/07.jpg');
+  background-image: url('https://www.indiadappfest.com/wp-content/uploads/2017/02/akgarg.jpg');
 }
 
 .tab-testi.photo-3 {
-  background-image: url('../images/05.jpg');
+  background-image: url('https://www.indiadappfest.com/wp-content/uploads/2017/02/vivek-deep-r3.jpg');
+}
+
+.tab-testi.photo-4 {
+  background-image: url('https://www.indiadappfest.com/wp-content/uploads/2019/05/Nitin-Gaur-Blockchain-IBM-Digital-Asset-Labs.jpg');
 }
 
 .testimonials-wrapper {
@@ -2585,7 +2589,7 @@ figure {
 }
 
 .div-block-28 {
-  display: none;
+  /* display: none; */
   margin-bottom: 0px;
   padding-top: 4em;
   padding-bottom: 5em;
