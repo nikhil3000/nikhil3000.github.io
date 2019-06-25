@@ -305,13 +305,13 @@ input[type="reset"] {
 .w-form {
   margin: 0 0 15px;
 }
-.w-form-done {
+.w-form-done-1 {
   display: none;
   padding: 20px;
   text-align: center;
   background-color: #dddddd;
 }
-.w-form-fail {
+.w-form-fail-1 {
   display: none;
   margin-top: 10px;
   padding: 10px;
